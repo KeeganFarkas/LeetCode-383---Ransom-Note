@@ -12,3 +12,5 @@ class Solution:
             if flag:
                 return False
         return True
+# Runtime: 49ms - Beats 95.4%
+# Memory: 14.1MB - Beats 94.83%
